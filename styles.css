@@ -1,0 +1,55 @@
+.body1 {
+	padding: 100px 200px;
+	background-color: #1a2634;
+	text-align: left;
+}
+.top-wrapper {
+	padding-right: 15px;
+	padding-left: 15px;
+}
+.top-wrapper img {
+	margin-top: 10px;
+	width: 600px;
+	height: 500px;
+	float: right;
+}
+.list-wrapper h1{
+	color: white;
+	font-size: 100px;
+	font-weight: bold;
+	font-family: Lato,pt sans,Roboto,sans-serif;
+	margin-bottom: 10px;
+}
+.list-wrapper p{
+	color: white;
+	font-family: sans-serif;
+	font-weight: 20px;
+	font-size: 30px;
+	margin-top: 10px;
+	width: 100%;
+	line-height: 50px;
+}
+.btn-wrapper {
+  margin: 10px;
+  padding: 15px 20px 15px 20px;
+  cursor: #FFFFFF;
+  font-weight: bold;
+  display: inline-block;
+  border-radius: 5px;
+}
+.btn-login{
+	font-family: sans-serif;
+	color: white;
+	background-color: #28a745;
+	border-radius: 5px;
+  padding: 15px 20px 15px 20px;
+  margin-left: 10px;
+}
+.btn-join {
+	font-family: sans-serif;
+	color: black;
+	background-color: white;
+	border-radius: 5px;
+  padding: 15px 20px 15px 20px;
+  margin-left: 10px;
+}
